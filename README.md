@@ -36,7 +36,7 @@ Nothing more, especially no UI, no persistence
 
 ## Class diagram
 
-![img.png](img.png)
+![img.png](readmi_images/img.png)
 
 ## Project Structure
 
@@ -205,7 +205,7 @@ When the server is running you can access the API Swagger at this URL:
 - The **amount** should be positive, otherwise an exception will be thrown.
 
 ### Swagger
-![img_1.png](img_1.png)
+![img_1.png](readmi_images/img_1.png)
 
 2 **/account/withdraw** : With this API, you can withdraw money on your bank account
 
@@ -217,7 +217,7 @@ When the server is running you can access the API Swagger at this URL:
 
 ### Swagger
 
-![img_2.png](img_2.png)
+![img_2.png](readmi_images/img_2.png)
 
 3 **/account/statement** : With this API, you can retrieve Account Statement
 
@@ -230,22 +230,22 @@ When the server is running you can access the API Swagger at this URL:
 - If the given **endDate** before **startDate**, otherwise an exception will be thrown.
 
 ### Swagger
-![img_3.png](img_3.png)
+![img_3.png](readmi_images/img_3.png)
 
 
 ## BDD Documentation
 
 When you run BDD test, Report will be generated 
 
-![img_4.png](img_4.png)
+![img_4.png](readmi_images/img_4.png)
 
 ## BDD Test example
 
-![img_6.png](img_6.png)
+![img_6.png](readmi_images/img_6.png)
 
 ## BDD Test Result
 
-![img_7.png](img_7.png)
+![img_7.png](readmi_images/img_7.png)
 
 
 ##ZOUAGHI Sabrine
