@@ -157,7 +157,7 @@ To run this project, please follow those steps
 
 1. Clone the project.
 ```text
-   git clone url
+   git clone https://github.com/sabrinezouaghui/Banking.git
    
 ```
 or download the project
